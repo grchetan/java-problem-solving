@@ -18,5 +18,6 @@ public class Combination {
             }
             System.out.println(); // new line after each row
         }
+        sc.close();
     }
 }

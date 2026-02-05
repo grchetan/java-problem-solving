@@ -1,0 +1,39 @@
+Data type in Programing language
+their are two type are data type 
+
+1. primitive datatype
+> predifined in Program
+> single value store
+
+Exapmle :
+byte
+short
+long
+float 
+int
+char
+double
+boolean
+
+
+2. non-primitive datatype
+> multiple value store 
+
+Exapmle :
+Object , Array , String 
+
+Type casting > datatype
+
+Imlicit 
+1. Automiatically
+2. smaller > large
+3. no data loss
+
+
+Exlicit
+1. Force fully convert
+2. Large > smaller
+3. data loss
+
+Exapmle: double b = 10;
+int c = (int) b;
