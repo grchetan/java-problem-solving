@@ -19,7 +19,7 @@ public class DeccimalToBinary {
     }
 
     System.out.println(ans);
- sc.close();
+    sc.close();
   }
   
   
