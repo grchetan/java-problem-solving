@@ -7,12 +7,12 @@ public class BinnaryNumbers {
     System.out.println("Enter a binary number : ");
     int n = sc.nextInt();
 
-    int i = 0 , d = 0;
+    int power = 0 , d = 0;
     while( n > 0) {
       int r = n % 10;
-      d = d + r * (int) Math.pow(2, i);
+      d = d + r * (int) Math.pow(2, power);
       n = n / 10 ;
-      i++;
+      power++;
 
 
     }
