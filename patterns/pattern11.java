@@ -1,7 +1,7 @@
 public class pattern11 {
     public static void main(String[] args) {
 
-        int n = 50;
+        int n = 7;
 
         for (int row = 0; row < n; row++) {
             for (int space = 0; space < row; space++) {

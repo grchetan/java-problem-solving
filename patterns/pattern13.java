@@ -18,6 +18,7 @@ public class pattern13 {
             // for(int space = 0; space <= n)
 
         }
+    System.out.println();
         sc.close();
         
     }

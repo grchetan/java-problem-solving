@@ -11,14 +11,6 @@ public class patter3 {
         //     }
         // }
 
-        
-
-
-
-
-
-
-
         int n = 4;
         for(int row = 0; row <n; row++ ){
             System.out.println("");
@@ -26,17 +18,5 @@ public class patter3 {
                System.out.print("*");
     }
 }
- 
-
-
-
-
-
-
-
-
-
-
-    }
-    
+    }   
 }
