@@ -1,0 +1,11 @@
+What is Array
+It is a ccollection of multiple of values of same data type.
+
+Syntaxx Declaration of Array
+
+datatype[] arrayName = new datatype[size];
+eg: int[] even = new int[5];
+
+
+
+
