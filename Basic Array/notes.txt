@@ -6,6 +6,10 @@ Syntaxx Declaration of Array
 datatype[] arrayName = new datatype[size];
 eg: int[] even = new int[5];
 
+Declaration + initialisation
+
+syntax> datatype[] arrayName = {, 2 , 4, 5}
+
 
 
 

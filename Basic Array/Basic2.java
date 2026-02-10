@@ -14,7 +14,10 @@ public class Basic2 {
     for(int i = 0; i < 6; i++){
       
       System.out.print(even[i]);
+ 
     }
+
+    sc.close(); 
     
   }
   
