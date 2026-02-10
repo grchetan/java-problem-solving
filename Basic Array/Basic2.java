@@ -2,7 +2,9 @@ import java.util.Scanner;
 public class Basic2 {
   public static void main(String[] args) {
 
-    int[] even = new int[6];
+    int[] even = new int[6] ;
+    int[] arr = {2 , 3 ,4 ,4};
+    
     Scanner sc = new Scanner(System.in);
 
    
@@ -22,3 +24,4 @@ public class Basic2 {
   }
   
 }
+
