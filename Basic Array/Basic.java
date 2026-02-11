@@ -9,7 +9,7 @@ public class Basic {
     arr[2] = 6;
     arr[3] = 8;
     arr[4] = 10;
-     arr[5] = 0;
+    arr[5] = 0;
 
      for(int i = 0; i < 6; i++){
       System.out.println(arr[i]);
