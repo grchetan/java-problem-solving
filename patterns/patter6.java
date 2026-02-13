@@ -7,12 +7,12 @@ public class patter6 {
 
         // Space
         for(int col = 0; col < 2 * row; col++){
-            System.out.print("      ");
+            System.out.print("  ");
         }
 
         // Star Print
         for(int col = 0; col < n - row ; col++){
-            System.out.print("*    ");
+            System.out.print(" *");
         }
         System.out.println();
 

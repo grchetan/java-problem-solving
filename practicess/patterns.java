@@ -10,19 +10,12 @@ public class patterns {
     int n = sc.nextInt();
 
     for(int row = 0 ; row < n; row++){
+
       for(int col = 0 ; col < n - row - 1; col++){
-        System.out.print("* ");
+        System.out.print(" *");
       }
-      System.out.println();
+      System.out.println(); 
     }
-
-
-
     sc.close();
-
-
   }
-
-  
-  
 }
