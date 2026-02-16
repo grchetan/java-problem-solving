@@ -6,9 +6,10 @@ public class Selection {
 
     for(int i = 0; i < arr.length -1 ; i++){
       int mini = i;
+      
       for(int j = i+1 ; j < arr.length; j++){
 
-        if(arr[j] < mini){
+        if(arr[j] < arr[mini]){
           mini = j;
 
         }
@@ -16,13 +17,18 @@ public class Selection {
       }
       // swap array
 
-      if(mini < arr[j]){
-        mini = arr[i];  
-
+      int temp = arr[mini];
+      arr[mini] = arr[i];
+      arr[i] = temp;
         
       }
 
+       // print array
+    for (int num : arr) {
+      System.out.print(num + " ");
     }
+
+    
 
 
 
