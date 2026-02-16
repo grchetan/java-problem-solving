@@ -16,7 +16,6 @@ public class Selection {
 
       }
       // swap array
-
       int temp = arr[mini];
       arr[mini] = arr[i];
       arr[i] = temp;
