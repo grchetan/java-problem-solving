@@ -16,6 +16,7 @@ public class Basic2 {
     for(int i = 0; i < 6; i++){
       
       System.out.print(even[i]);
+      System.out.println(arr[i]);
  
     }
 
