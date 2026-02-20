@@ -25,6 +25,9 @@ public class sumofplaces {
     //   place = 0;
     //    n = n / 10;
     //  }
+
+
+    
     for(place = 1; n > 0; place++ ){
 
     int reminder = n % 10;
