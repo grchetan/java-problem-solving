@@ -8,7 +8,7 @@ public class FindPivotIndex724 {
      for(int n : nums){
             totalSum += n;
         }
-
+//add 
 
 
         System.out.println(totalSum);

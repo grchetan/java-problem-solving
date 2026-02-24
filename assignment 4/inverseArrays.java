@@ -13,7 +13,7 @@ public class inverseArrays {
         inverse[arr[index]] = index;
 
         // Recursive call
-        // add
+        // add file
         inverseArray(arr, inverse, index + 1);
     }
 
