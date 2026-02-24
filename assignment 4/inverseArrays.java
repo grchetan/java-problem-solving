@@ -33,5 +33,7 @@ public class inverseArrays {
         for(int i = 0; i < n; i++) {
             System.out.print(inverse[i] + " ");
         }
+
+        sc.close();
     }
 }
