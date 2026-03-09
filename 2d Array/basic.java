@@ -3,8 +3,12 @@ public class basic {
   public static void main(String[] args) {
     
     Scanner sc = new Scanner(System.in);
+
+    System.out.println("Enter a number row and colomn");
     int rows = sc.nextInt();
     int column = sc.nextInt();
+
+    System.out.println("Now fill array :");
     int[][] arr = new int[rows][column];
 
     for(int i = 0; i < rows; i++){
