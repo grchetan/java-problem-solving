@@ -34,7 +34,6 @@ public class TransponseArray {
       for(int i = 0; i < n; i++ ){
 
         for(int j = 0; j < m; j++ ){
-
           arr2[j][i] = arr[i][j] ;
       
         }
