@@ -9,7 +9,7 @@
  ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-# ☕ java-problem-solving
+#  java-problem-solving
 
 **Grinding DSA, one `.java` file at a time.**  
 _Coding Blocks ki class + real problem solving + optimized solutions = this repo_
@@ -26,7 +26,7 @@ _Coding Blocks ki class + real problem solving + optimized solutions = this repo
 
 ---
 
-## 🧠 What is this repo?
+##  What is this repo?
 
 > This is my personal **Java DSA practice repository** — where I push every problem I solve during my [Coding Blocks](https://codingblocks.com/) classes and beyond. Not just copy-paste — I write **clean, optimized, commented code** so I actually _understand_ what's happening.
 
@@ -40,41 +40,6 @@ while (alive) {
 
 ---
 
-## 📁 Repo Structure
-
-```
-java-problem-solving/
-│
-├── 🔢 Basics & Logic
-│   ├── FindMaxNumber.java        → Find max in array
-│   ├── GCD.java                  → Euclidean GCD algorithm
-│   ├── PrimeNumberCheck.java     → Prime check logic
-│   ├── PrintCounting.java        → Counting patterns
-│   ├── reversenumber.java        → Reverse a number
-│   ├── SimpleIntrest.java        → Basic SI formula
-│   ├── SumOfDigits.java          → Digit sum
-│   ├── SumOfnatural.java         → Sum of N natural numbers
-│   ├── SwapTwoNumber.java        → Swap without temp
-│   ├── TypeCasting.java          → Type conversion demos
-│   ├── StarPrint.java            → Star pattern printing
-│   ├── Lottry.java               → Lottery logic
-│   └── Multification.java        → Multiplication table
-│
-├── 📊 Arrays & DSA
-│   ├── SelectionSort.java        → Selection sort implementation
-│   ├── RemoveElement.java        → In-place element removal
-│   ├── inverseArrays.java        → Array inversion
-│   ├── Rotate.java               → Array rotation (k steps)
-│   ├── FindPivotIndex724.java    → LeetCode #724
-│   ├── OptimizedTranspose.java   → Optimized matrix transpose
-│   ├── TransponseArray.java      → 2D array transpose
-│   └── spiralmatrix.java         → Spiral matrix traversal
-│
-└── README.md
-```
-
----
-
 ## 🚀 Topics Covered
 
 | Category        | Topics                                  |
@@ -83,22 +48,19 @@ java-problem-solving/
 | **Math**        | GCD, Prime, Digit Sum, SI, Reverse      |
 | **Arrays**      | Sort, Rotate, Transpose, Spiral, Pivot  |
 | **Algorithms**  | Selection Sort, Optimized Transpose     |
-| **LeetCode**    | #724 Find Pivot Index                   |
-| **Coming Soon** | LinkedList, Recursion, Trees, DP 🔥     |
+| **Coming Soon** | LinkedList, Recursion, Trees, DP        |
 
 ---
 
-## 💡 Why This Repo Exists
+##  Why This Repo Exists
 
-- 📚 **Coding Blocks class notes** — every concept I learn, I code it
-- 🧩 **Problem solving** — not just theory, actual working programs
-- ⚡ **Optimized solutions** — I try to push the most efficient version
-- 📈 **Progress tracking** — watching myself grow commit by commit
-- 🎯 **Interview prep** — building the base for placements
+-  **Problem solving** — not just theory, actual working programs
+-  **Optimized solutions** — I try to push the most efficient version
+-  **Interview prep** — building the base for placements
 
 ---
 
-## 🛠️ How to Run Any File
+##  How to Run Any File
 
 ```bash
 # Clone the repo
