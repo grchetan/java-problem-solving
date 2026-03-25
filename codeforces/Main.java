@@ -1,0 +1,45 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextInt();
+        }
+
+        int left = 0;
+        int right = n - 1;
+
+        int sereja = 0;
+        int dima = 0;
+
+        int turn = 0; // 0 = Sereja, 1 = Dima
+
+        while (left <= right) {
+
+            int picked;
+
+            if (arr[left] > arr[right]) {
+                picked = arr[left];
+                left++;
+            } else {
+                picked = arr[right];
+                right--;
+            }
+
+            if (turn % 2 == 0) {
+                sereja += picked;
+            } else {
+                dima += picked;
+            }
+
+            turn++;
+        }
+
+        System.out.println(sereja + " " + dima);
+    }
+}
