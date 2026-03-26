@@ -19,6 +19,9 @@ public class SerejaandDima {
 
     int turn = 0;
 
+    // 4
+    //  4 1 2 10
+
 
     while (left <= right) {
       int pick;
@@ -27,7 +30,7 @@ public class SerejaandDima {
       left++;}
 
      else{
-      pick=  arr[right];
+      pick =  arr[right];
       right--;
      }
 
@@ -41,6 +44,8 @@ public class SerejaandDima {
 }
 
     System.out.println(serejaScore +" "+ dimaScore);
+
+    sc.close();
 
   }
 
