@@ -46,7 +46,7 @@ public class TransponseArray {
         }
         System.out.println();
     }
-
+sc.close();
     
     
     
