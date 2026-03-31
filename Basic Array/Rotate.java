@@ -8,7 +8,7 @@ public class Rotate {
     
     for(int i = 0; i < nums.length - 1 ; i++){
       
-
+System.out.println(k);
 
     }
 
