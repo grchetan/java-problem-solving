@@ -1,6 +1,8 @@
 public class wave {
   public static void wave(int[][] arr, int m,  int n){
+
 for(int col = 0; col < n; col++){
+  
   if(col % 2 == 0){
     for(int row = m - 1; row >=0; row-- ){
       System.out.print(arr[row][col]+ " ");
