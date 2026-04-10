@@ -36,7 +36,7 @@ while (alive) {
 
 ## 🗂️ Problem Index
 
-### 🔢 Basics & Math Problems
+###  Basics & Math Problems
 
 | # | Problem | File Link |
 |---|---------|-----------|
@@ -81,7 +81,7 @@ while (alive) {
 
 ---
 
-## 🚀 Topics Covered
+##  Topics Covered
 
 | Category | Topics |
 | --- | --- |
@@ -93,17 +93,17 @@ while (alive) {
 
 ---
 
-## 📊 Progress Tracker
+##  Progress Tracker
 
 ```
-Basics          ████████████████████  Done ✅
-Arrays          █████████████░░░░░░░  In Progress 🔄
-Sorting         ████████░░░░░░░░░░░░  Started 🟡
+Basics          ████████████████████  Done 
+Arrays          █████████████░░░░░░░  In Progress 
+Sorting         ████████░░░░░░░░░░░░  Started 
 Searching       ████░░░░░░░░░░░░░░░░  Early Stage 🟠
-Recursion       ░░░░░░░░░░░░░░░░░░░░  Coming Soon ⏳
-Linked Lists    ░░░░░░░░░░░░░░░░░░░░  Coming Soon ⏳
-Trees & Graphs  ░░░░░░░░░░░░░░░░░░░░  Coming Soon ⏳
-Dynamic Prog.   ░░░░░░░░░░░░░░░░░░░░  Coming Soon ⏳
+Recursion       ░░░░░░░░░░░░░░░░░░░░  Coming Soon 
+Linked Lists    ░░░░░░░░░░░░░░░░░░░░  Coming Soon 
+Trees & Graphs  ░░░░░░░░░░░░░░░░░░░░  Coming Soon 
+Dynamic Prog.   ░░░░░░░░░░░░░░░░░░░░  Coming Soon 
 ```
 
 ---
@@ -128,21 +128,21 @@ java FindMaxNumber
 
 ---
 
-## 🔥 Notable Solutions
+##  Notable Solutions
 
-### 🎯 Find Pivot Index — LeetCode #724
+###  Find Pivot Index — LeetCode #724
 ```java
 // O(n) time | O(1) space
 // Left sum == Right sum → pivot found
 ```
 
-### 🌀 Spiral Matrix Traversal
+###  Spiral Matrix Traversal
 ```java
 // Classic 2D array traversal
 // Top → Right → Bottom → Left, shrink boundaries
 ```
 
-### 🔄 Optimized Matrix Transpose
+###  Optimized Matrix Transpose
 ```java
 // In-place transpose: swap matrix[i][j] ↔ matrix[j][i]
 // O(n²) time | O(1) space
@@ -150,10 +150,10 @@ java FindMaxNumber
 
 ---
 
-## 📌 Coding Blocks Journey
+##  Coding Blocks Journey
 
 > Currently enrolled in **Coding Blocks** — learning DSA systematically.  
-> Every class → new concept → new `.java` file → commit → push. That's the loop. 🔁
+> Every class → new concept → new `.java` file → commit → push. That's the loop. 
 
 ---
 
@@ -166,8 +166,8 @@ java FindMaxNumber
 
 ---
 
-**Made with ☕ + grind by [Chetan Prajapat](https://grchetan.github.io/)**  
-*BCA @ Sage University Indore · Full Stack Dev · DSA Grinder*
+**Made with + grind by [Chetan Prajapat](https://grchetan.github.io/)**  
+* Full Stack Dev · DSA Grinder*
 
 > *"The best way to learn DSA is to just start writing the code — ugly first, optimized later."*
 
