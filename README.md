@@ -40,8 +40,6 @@ while (alive) {
 
 ---
 
----
-
 ## Repository layout
 
 All sources live under **src/** so topics are easy to browse on GitHub and in your editor.
@@ -61,6 +59,9 @@ All sources live under **src/** so topics are easy to browse on GitHub and in yo
 | [docs/](docs/) | Notes (for example datatype cheatsheets) |
 
 These files use the **default package** (no package line). The public class name must match the file name (for example EvenNumber.java contains public class EvenNumber).
+
+---
+
 ## 🚀 Topics Covered
 
 | Category        | Topics                                  |
