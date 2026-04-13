@@ -42,23 +42,23 @@ while (alive) {
 
 ## Repository layout
 
-All sources live under **src/** so topics are easy to browse on GitHub and in your editor.
+All sources live under **`src/`** so topics are easy to browse on GitHub and in your editor.
 
 | Path | Contents |
 | ---- | -------- |
-| [src/basics/](src/basics/) | Loops, math, type casting, simple I/O, starter Main demos |
-| [src/arrays-1d/](src/arrays-1d/) | 1D arrays: sort, rotate, reverse, search-style drills |
-| [src/arrays-2d/](src/arrays-2d/) | Matrices: transpose, spiral, wave, merging |
-| [src/patterns/](src/patterns/) | Pattern printing (nested loops) |
-| [src/strings/](src/strings/) | String and character exercises |
-| [src/searching/](src/searching/) | Binary search and related |
-| [src/functions/](src/functions/) | Methods: factorial, sums, printing |
-| [src/practice/](src/practice/) | Extra practice / experiments |
-| [src/assignments/](src/assignments/) | Course assignments (ssignment-2 through ssignment-4) |
-| [src/list/](src/list/) | Placeholder for linked-list exercises |
-| [docs/](docs/) | Notes (for example datatype cheatsheets) |
+| [`src/basics/`](src/basics/) | Loops, math, type casting, simple I/O, starter `Main` demos |
+| [`src/arrays-1d/`](src/arrays-1d/) | 1D arrays: sort, rotate, reverse, search-style drills |
+| [`src/arrays-2d/`](src/arrays-2d/) | Matrices: transpose, spiral, wave, merging |
+| [`src/patterns/`](src/patterns/) | Pattern printing (nested loops) |
+| [`src/strings/`](src/strings/) | String and character exercises |
+| [`src/searching/`](src/searching/) | Binary search and related |
+| [`src/functions/`](src/functions/) | Methods: factorial, sums, printing |
+| [`src/practice/`](src/practice/) | Extra practice / experiments |
+| [`src/assignments/`](src/assignments/) | Course assignments (`assignment-2` through `assignment-4`) |
+| [`src/list/`](src/list/) | Placeholder for linked-list exercises |
+| [`docs/`](docs/) | Notes (for example datatype cheatsheets) |
 
-These files use the **default package** (no package line). The public class name must match the file name (for example EvenNumber.java contains public class EvenNumber).
+These files use the **default package** (no `package` line). The public class name must match the file name (for example `EvenNumber.java` contains `public class EvenNumber`).
 
 ---
 
