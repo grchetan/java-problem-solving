@@ -1,6 +1,7 @@
 Data type in Programing language
 their are two type are data type 
 
+// nothis
 1. primitive datatype
 > predifined in Program
 > single value store
