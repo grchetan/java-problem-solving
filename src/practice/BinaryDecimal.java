@@ -7,8 +7,6 @@ public class BinaryDecimal {
   
 
     String bin = "";
-   
-   
 
 
     while(n > 0) {
