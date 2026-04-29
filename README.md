@@ -25,7 +25,6 @@ _Coding Blocks ki class + real problem solving + optimized solutions = this repo
 </div>
 
 ---
-ff
 
 ##  What is this repo?
 
