@@ -106,21 +106,29 @@ Dynamic Prog.   ░░░░░░░░░░░░░░░░░░░░  Co
 
 ## How to Run Any File
 
-```bash
-# Clone the repo
-git clone https://github.com/grchetan/java-problem-solving.git
+**Requirements:** JDK 8+ · terminal or any IDE (VS Code / IntelliJ / Eclipse)
 
-# Navigate to folder
+**Option A — run from the folder that contains the source**
+
+```bash
+git clone https://github.com/grchetan/java-problem-solving.git
 cd java-problem-solving
 
-# Compile any file
+cd src/basics
 javac FindMaxNumber.java
-
-# Run it
 java FindMaxNumber
 ```
 
-> **Requirements:** JDK 8+ installed · Any IDE (VS Code / IntelliJ / Eclipse)
+**Option B — compile from the repo root into an `out/` folder**
+
+```bash
+cd java-problem-solving
+mkdir out
+javac -d out src/basics/FindMaxNumber.java
+java -cp out FindMaxNumber
+```
+
+Swap in any path under `src/` (for example `src/arrays-2d/spiralmatrix.java` then run `java -cp out spiralmatrix`).
 
 ---
 
